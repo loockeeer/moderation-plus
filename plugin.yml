@@ -1,0 +1,13 @@
+name: Moderation
+version: 1.0
+author: Loockeeer
+main: fr.loockeeer.moderation.Main
+commands:
+    alert:
+        description: This command send a message in red in the chat to announce things.
+    fly:
+        description: This command allows you to fly.
+    god:
+        description: This command set you in god mod, after doing this, you will be invicible.
+    ec:
+        description: This command allows you to view and edit the enderchest of a player.
